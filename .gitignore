@@ -1,0 +1,5 @@
+# Third-party media (Resident Evil / Ada Wong) is not mine to relicense.
+# Keep these local; don't publish them in a public repo.
+assets/video/
+assets/images/
+.DS_Store

@@ -6,6 +6,3 @@
   </a>
 </p>
 
-This is a static portfolio website built with HTML, CSS, and JavaScript. GitHub Pages serves it from the repository root.
-
-Some local media is intentionally excluded from this public repository by `.gitignore`.
